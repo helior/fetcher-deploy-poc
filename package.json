@@ -1,0 +1,22 @@
+{
+  "name": "fetchers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxbroadcasting/cpe-video-fetchers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foxbroadcasting/cpe-video-fetchers/issues"
+  },
+  "homepage": "https://github.com/foxbroadcasting/cpe-video-fetchers#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
+}
